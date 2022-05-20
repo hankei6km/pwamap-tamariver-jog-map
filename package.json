@@ -37,7 +37,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "https://hankei6km.github.io/test-pwamap/",
+  "homepage": "https://hankei6km.github.io/pwamap-tamariver-jog-map/",
   "eslintConfig": {
     "extends": "react-app"
   },

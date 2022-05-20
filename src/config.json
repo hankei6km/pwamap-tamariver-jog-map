@@ -1,8 +1,8 @@
 {
-  "title": "Geolonia PWAマップ",
-  "description": "Google スプレッドシートを更新するだけでオリジナルの地図アプリを作成できる\n「Geolonia PWAマップ」",
+  "title": "多摩川ジョギングマップ",
+  "description": "「Geolonia PWAマップ」を元にジョギング用に作成した地図",
   "form_url": "",
-  "logo_image_url": "https://hankei6km.github.io/test-pwamap/icon-pwamap.svg",
-  "background_image_url": "https://hankei6km.github.io/test-pwamap/bgimage_pwamap_1920_1080.jpg",
-  "primary_color": "#d2691e"
+  "logo_image_url": "https://hankei6km.github.io/pwamap-tamariver-jog-map/icon-pwamap.svg",
+  "background_image_url": "https://hankei6km.github.io/pwamap-tamariver-jog-map/bgimage_pwamap_1920_1080.jpg",
+  "primary_color": "#3b82f6"
 }
