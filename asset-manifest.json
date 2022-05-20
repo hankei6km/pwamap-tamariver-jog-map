@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/pwamap-tamariver-jog-map/static/css/main.6790771c.chunk.css",
+    "main.js": "/pwamap-tamariver-jog-map/static/js/main.436dbd58.chunk.js",
+    "main.js.map": "/pwamap-tamariver-jog-map/static/js/main.436dbd58.chunk.js.map",
+    "runtime-main.js": "/pwamap-tamariver-jog-map/static/js/runtime-main.becb051e.js",
+    "runtime-main.js.map": "/pwamap-tamariver-jog-map/static/js/runtime-main.becb051e.js.map",
+    "static/js/2.075f9e76.chunk.js": "/pwamap-tamariver-jog-map/static/js/2.075f9e76.chunk.js",
+    "static/js/2.075f9e76.chunk.js.map": "/pwamap-tamariver-jog-map/static/js/2.075f9e76.chunk.js.map",
+    "index.html": "/pwamap-tamariver-jog-map/index.html",
+    "service-worker.js": "/pwamap-tamariver-jog-map/service-worker.js",
+    "service-worker.js.map": "/pwamap-tamariver-jog-map/service-worker.js.map",
+    "static/css/main.6790771c.chunk.css.map": "/pwamap-tamariver-jog-map/static/css/main.6790771c.chunk.css.map",
+    "static/js/2.075f9e76.chunk.js.LICENSE.txt": "/pwamap-tamariver-jog-map/static/js/2.075f9e76.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.becb051e.js",
+    "static/js/2.075f9e76.chunk.js",
+    "static/css/main.6790771c.chunk.css",
+    "static/js/main.436dbd58.chunk.js"
+  ]
+}
